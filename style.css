@@ -2,3 +2,25 @@
     background-color: #ffc107;
     color: white;
 }
+
+.sections {
+    padding: 60px 0px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
+
+img {
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 325px) {
+    #redes {
+      margin-left: 70px;
+    }
+    footer p a {
+      margin: 5px 5px;
+    }
+}
